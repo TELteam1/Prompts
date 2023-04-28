@@ -19,11 +19,11 @@ Please confirm that this is understood by answering "OK".
 <br>Step 6 (Me) I will select the feedback I want and provide additional instructions, for example, ask you to expand the feedback in some way.
 <br>Step 7 (You) You will print the final question using the following format:
 
-Question:
-Correct response alternative:
-Feedback for the correct response alternative:
-Lure 1:
-Feedback for Lure 1:
-Lure 2:
-Feedback for Lure 2:
+<br>Question:
+<br>Correct response alternative:
+<br>Feedback for the correct response alternative:
+<br>Lure 1:
+<br>Feedback for Lure 1:
+<br>Lure 2:
+<br>Feedback for Lure 2:
 
