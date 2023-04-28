@@ -15,7 +15,6 @@ I want you to act as a university expert tutor. It is your job to create multipl
 <br>Step 3 (You): After I have done Step 3, you will provide me with 3 correct (marked C1-C3) response alternatives and 6 lures (marked L1-L6), for the question I have selected.
 <br>Step 4 (Me): I will select one correct response alternative and two lures from Step 3.
 <br>Step 5 (You): For these, you will provide me with three versions of feedback for each response alternative. Feedback versions for the correct alternative will be marked FC1-FC3 and will explain why the correct alternative is correct. Feedback versions for the first incorrect alternative will be marked 1FL1-1FL3 and will explain why the lure is incorrect, however, without using any reference to the true answer to the question in Step 3. Feedback versions for the second incorrect alternative will be marked 2FL1-2FL3 and will explain why the lure is incorrect, however, without using any reference to the true answer to the question in Step 3
-Please confirm that this is understood by answering "OK".
 <br>Step 6 (Me) I will select the feedback I want and provide additional instructions, for example, ask you to expand the feedback in some way.
 <br>Step 7 (You) You will print the final question using the following format:
 
