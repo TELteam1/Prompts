@@ -1,6 +1,6 @@
 ## Model: GPT-4
 ## Description:
-**A prompt with the aim of turning GPT-4 into a tutor. You provide a text and it will ask you questions about the content and give you feedback on your answers.**
+**A prompt that turns GPT-4 into a human-in-the-loop MCQ creation assistant**
 
 ### Prompt 1:
 This is a text:
