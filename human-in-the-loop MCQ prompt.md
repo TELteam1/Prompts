@@ -27,10 +27,10 @@ I want you to act as a university expert tutor. It is your job to create multipl
 <br>Feedback for Lure 2:
 
 ### Prompt 3:
-Step 2: **Write the question number you want to use, e.g., "Q1"**
+Step 2: **[Write the question number you want to use, e.g., "Q1"]**
 
 ### Prompt 4:
-Step 4: **Write the response alternatives you want to use, e.g., "C1, L1, L5"**
+Step 4: **[Write the response alternatives you want to use, e.g., "C1, L1, L5"]**
 
 ### Prompt 5:
-Step 6: **Write the feedback you want to use, e.g., "FC1, 1FL1, 2FL1". Here you can also ask for additional adjustment, e.g., asking it to add something more in the feedback**
+Step 6: **[Write the feedback you want to use, e.g., "FC1, 1FL1, 2FL1". Here you can also ask for additional adjustment, e.g., asking it to add something more in the feedback]**
